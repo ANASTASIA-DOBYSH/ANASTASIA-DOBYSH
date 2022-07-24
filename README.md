@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nastya 
-- 👀 I’m interested in backend
+- 👀 I’m interested in backend development and computational linguistics
 - 🌱 I’m currently learning Python 
 - 📫 You can reach me via Telegram @anastasia_dobysh
 
